@@ -1,3 +1,4 @@
+## RMM Linux Installer
 A simple wrapper to install and launch Rumble Mod Manager
 
 ## Known Issues
