@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Exec=/home/adi/src/RMM-Linux-Installer/RMM-Install.py
+Icon=RMM.png
+Terminal=false
+Categories=Game;
+
+Name=Rumble Mod Manager
+Comment=Rumble Mod Manager for the game RUMBLE VR
